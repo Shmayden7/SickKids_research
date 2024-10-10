@@ -1,0 +1,7 @@
+node_modules
+venv
+assembly_key.py
+deepgram_key.py
+speechmatics_key.py
+data/
+flask-server/models/
